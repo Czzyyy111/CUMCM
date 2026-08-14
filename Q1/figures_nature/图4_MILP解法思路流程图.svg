@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="513.792pt" height="369.144pt" viewBox="0 0 513.792 369.144" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-14T00:58:57.745960</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 369.144 
+L 513.792 369.144 
+L 513.792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 23.709312 87.185088 
+L 119.219328 87.185088 
+Q 128.363904 87.185088 128.363904 80.644176 
+L 128.363904 35.947944 
+Q 128.363904 29.407032 119.219328 29.407032 
+L 23.709312 29.407032 
+Q 14.564736 29.407032 14.564736 35.947944 
+L 14.564736 80.644176 
+Q 14.564736 87.185088 23.709312 87.185088 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #eaf1f8; stroke: #3775ba; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 150.717312 87.185088 
+L 246.227328 87.185088 
+Q 255.371904 87.185088 255.371904 80.644176 
+L 255.371904 35.947944 
+Q 255.371904 29.407032 246.227328 29.407032 
+L 150.717312 29.407032 
+Q 141.572736 29.407032 141.572736 35.947944 
+L 141.572736 80.644176 
+Q 141.572736 87.185088 150.717312 87.185088 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #f6f0df; stroke: #d8b365; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 277.725312 87.185088 
+L 373.235328 87.185088 
+Q 382.379904 87.185088 382.379904 80.644176 
+L 382.379904 35.947944 
+Q 382.379904 29.407032 373.235328 29.407032 
+L 277.725312 29.407032 
+Q 268.580736 29.407032 268.580736 35.947944 
+L 268.580736 80.644176 
+Q 268.580736 87.185088 277.725312 87.185088 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #f1eaf3; stroke: #b58cb8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 404.733312 87.185088 
+L 490.082688 87.185088 
+Q 499.227264 87.185088 499.227264 80.644176 
+L 499.227264 35.947944 
+Q 499.227264 29.407032 490.082688 29.407032 
+L 404.733312 29.407032 
+Q 395.588736 29.407032 395.588736 35.947944 
+L 395.588736 80.644176 
+Q 395.588736 87.185088 404.733312 87.185088 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #eaf4ef; stroke: #42949e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 124.267524 58.114368 
+Q 134.96707 58.114368 144.548581 58.114368 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 140.548581 56.114368 
+L 144.548581 58.114368 
+L 140.548581 60.114368 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 251.275524 58.114368 
+Q 261.97507 58.114368 271.556581 58.114368 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 267.556581 56.114368 
+L 271.556581 58.114368 
+L 267.556581 60.114368 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 378.283524 58.114368 
+Q 388.98307 58.114368 398.564581 58.114368 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 394.564581 56.114368 
+L 398.564581 58.114368 
+L 394.564581 60.114368 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 66.892032 192.566448 
+L 218.285568 192.566448 
+Q 227.430144 192.566448 227.430144 186.025536 
+L 227.430144 135.878544 
+Q 227.430144 129.337632 218.285568 129.337632 
+L 66.892032 129.337632 
+Q 57.747456 129.337632 57.747456 135.878544 
+L 57.747456 186.025536 
+Q 57.747456 192.566448 66.892032 192.566448 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #f2f3f5; stroke: #6f7782; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 295.506432 192.566448 
+L 446.899968 192.566448 
+Q 456.044544 192.566448 456.044544 186.025536 
+L 456.044544 135.878544 
+Q 456.044544 129.337632 446.899968 129.337632 
+L 295.506432 129.337632 
+Q 286.361856 129.337632 286.361856 135.878544 
+L 286.361856 186.025536 
+Q 286.361856 192.566448 295.506432 192.566448 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #eaf1f8; stroke: #0f4d92; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 445.410358 82.850345 
+Q 349.590132 84.243763 259.850318 114.528662 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 264.27983 115.144633 
+L 259.850318 114.528662 
+L 263.000802 111.354635 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 254.918089 115.84343 
+Q 199.742428 124.613636 145.670939 133.208332 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 149.935306 134.555616 
+L 145.670939 133.208332 
+L 149.307386 130.605209 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 258.873911 115.84343 
+Q 314.049572 124.613636 368.121061 133.208332 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 364.484614 130.605209 
+L 368.121061 133.208332 
+L 363.856694 134.555616 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 163.418112 281.595528 
+L 350.373888 281.595528 
+Q 359.518464 281.595528 359.518464 275.054616 
+L 359.518464 230.358384 
+Q 359.518464 223.817472 350.373888 223.817472 
+L 163.418112 223.817472 
+Q 154.273536 223.817472 154.273536 230.358384 
+L 154.273536 275.054616 
+Q 154.273536 281.595528 163.418112 281.595528 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #edf2f7; stroke: #0f4d92; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 144.490141 188.824463 
+Q 185.020172 202.168217 218.804786 226.358704 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 216.716867 222.403884 
+L 218.804786 226.358704 
+L 214.388179 225.656147 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 369.301859 188.824463 
+Q 328.771828 202.168217 294.987214 226.358704 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 299.403821 225.656147 
+L 294.987214 226.358704 
+L 297.075133 222.403884 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 36.410112 354.272328 
+L 157.321728 354.272328 
+Q 166.466304 354.272328 166.466304 347.731416 
+L 166.466304 310.302864 
+Q 166.466304 303.761952 157.321728 303.761952 
+L 36.410112 303.761952 
+Q 27.265536 303.761952 27.265536 310.302864 
+L 27.265536 347.731416 
+Q 27.265536 354.272328 36.410112 354.272328 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #eaf1f8; stroke: #3775ba; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 196.440192 354.272328 
+L 317.351808 354.272328 
+Q 326.496384 354.272328 326.496384 347.731416 
+L 326.496384 310.302864 
+Q 326.496384 303.761952 317.351808 303.761952 
+L 196.440192 303.761952 
+Q 187.295616 303.761952 187.295616 310.302864 
+L 187.295616 347.731416 
+Q 187.295616 354.272328 196.440192 354.272328 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #eaf4ef; stroke: #42949e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 356.470272 354.272328 
+L 477.381888 354.272328 
+Q 486.526464 354.272328 486.526464 347.731416 
+L 486.526464 310.302864 
+Q 486.526464 303.761952 477.381888 303.761952 
+L 356.470272 303.761952 
+Q 347.325696 303.761952 347.325696 310.302864 
+L 347.325696 347.731416 
+Q 347.325696 354.272328 356.470272 354.272328 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #f6f0df; stroke: #d8b365; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 254.927857 277.614794 
+Q 176.878505 292.679214 99.926926 307.531751 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 104.233465 308.737452 
+L 99.926926 307.531751 
+L 103.475411 304.80994 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 256.896 279.237036 
+Q 256.896 292.680159 256.896 305.005247 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 258.896 301.005247 
+L 256.896 305.005247 
+L 254.896 301.005247 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 258.864143 277.614794 
+Q 336.913495 292.679214 413.865074 307.531751 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-linecap: round"/>
+    <path d="M 410.316589 304.80994 
+L 413.865074 307.531751 
+L 409.558535 308.737452 
+z
+" clip-path="url(#p310b5fef52)" style="fill: #767676; stroke: #767676; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #272727" x="71.46432" y="51.794032" transform="rotate(-0 71.46432 51.794032)">输入数据</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(46.26432 63.459604)">地块面积与类型</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(22.354695 73.833018)">2023 种植、亩产、成本、价格</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #272727" x="198.47232" y="51.801532" transform="rotate(-0 198.47232 51.801532)">参数构造</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(173.27232 63.470291)">价格区间取中点</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(149.362695 73.843705)">2023 实际产量汇总为销售上限</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #272727" x="325.48032" y="51.797782" transform="rotate(-0 325.48032 51.797782)">决策变量</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(307.12482 63.477604)">种植面积  x</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(281.934945 73.41508)">是否种植及水浇地模式  y, z</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #272727" x="447.408" y="51.805907" transform="rotate(-0 447.408 51.805907)">统一约束集</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(416.808 63.639082)">土地适配、面积平衡</text>
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(406.608 73.399539)">重茬、豆类轮作、管理便利</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #6f7782" x="142.5888" y="153.48075" transform="rotate(-0 142.5888 153.48075)">情形 1：超产滞销浪费</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(89.786925 167.036643)">利润 = 正常销售收入 − 种植成本</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(96.212363 177.371807)">超出预期销售量部分收入为 0</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #0f4d92" x="371.2032" y="153.48825" transform="rotate(-0 371.2032 153.48825)">情形 2：超产部分半价销售</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(317.8422 167.026518)">利润 = 正常收入 + 0.5×超产收入</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(353.067638 177.368432)">− 种植成本</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #272727" x="256.896" y="246.328757" transform="rotate(-0 256.896 246.328757)">MILP 求解</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(208.611563 257.894794)">PuLP 建模 + HiGHS 分支定界</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(208.788187 268.272145)">最大化 2024—2030 年总利润</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #272727" x="96.86592" y="323.827044" transform="rotate(-0 96.86592 323.827044)">方案输出</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(60.86592 333.060042)">逐年、逐地块、逐季次</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(71.66592 343.409269)">作物种植面积表</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #272727" x="256.896" y="323.823294" transform="rotate(-0 256.896 323.823294)">可行性审计</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(220.896 333.035855)">面积平衡、重茬、轮作</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(220.896 343.419956)">最小面积与分散度检查</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #272727" x="416.92608" y="323.827044" transform="rotate(-0 416.92608 323.827044)">比较分析</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(384.52608 333.067355)">年度利润、种植结构</text>
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; fill: #272727" transform="translate(384.52608 343.398581)">正常销量与超产规模</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start; fill: #272727" x="20.66112" y="24.390549" transform="rotate(-0 20.66112 24.390549)">问题一：确定性多期种植策略的 MILP 解法流程</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: end; fill: #767676" x="493.13088" y="21.65544" transform="rotate(-0 493.13088 21.65544)">统一约束 · 两类利润函数 · 同一求解框架</text>
+   </g>
+   <g id="line2d_1">
+    <path d="M 256.896 115.52904 
+" clip-path="url(#p310b5fef52)" style="fill: none; stroke: #767676; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="me639a61303" d="M 0 1.75 
+C 0.464105 1.75 0.909265 1.565609 1.237437 1.237437 
+C 1.565609 0.909265 1.75 0.464105 1.75 0 
+C 1.75 -0.464105 1.565609 -0.909265 1.237437 -1.237437 
+C 0.909265 -1.565609 0.464105 -1.75 0 -1.75 
+C -0.464105 -1.75 -0.909265 -1.565609 -1.237437 -1.237437 
+C -1.565609 -0.909265 -1.75 -0.464105 -1.75 0 
+C -1.75 0.464105 -1.565609 0.909265 -1.237437 1.237437 
+C -0.909265 1.565609 -0.464105 1.75 0 1.75 
+z
+" style="stroke: #767676"/>
+    </defs>
+    <g clip-path="url(#p310b5fef52)">
+     <use xlink:href="#me639a61303" x="256.896" y="115.52904" style="fill: #767676; stroke: #767676"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p310b5fef52">
+   <rect x="2.88" y="2.88" width="508.032" height="363.384"/>
+  </clipPath>
+ </defs>
+</svg>

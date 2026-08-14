@@ -1,0 +1,21 @@
+# Python 虚拟环境与缓存
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# 编辑器与操作系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Office 临时文件
+~$*
+
+# 本地读取、渲染产生的临时文件
+tmp/
+
+# 与 C题/ 内容重复的本地压缩包
+C题.zip

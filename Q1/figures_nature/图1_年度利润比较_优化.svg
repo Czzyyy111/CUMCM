@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="453.488115pt" height="237.209463pt" viewBox="0 0 453.488115 237.209463" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-14T00:58:55.332500</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 237.209463 
+L 453.488115 237.209463 
+L 453.488115 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 35.888115 206.55 
+L 450.608115 206.55 
+L 450.608115 38.358 
+L 35.888115 38.358 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="FillBetweenPolyCollection_1">
+    <defs>
+     <path id="m76d0a8267d" d="M 53.611192 -172.301009 
+L 53.611192 -56.647871 
+L 112.688115 -52.401603 
+L 171.765038 -57.920934 
+L 230.841961 -54.896633 
+L 289.918884 -48.144999 
+L 348.995808 -58.248992 
+L 408.072731 -57.093187 
+L 408.072731 -173.151308 
+L 408.072731 -173.151308 
+L 348.995808 -161.103415 
+L 289.918884 -106.900123 
+L 230.841961 -173.417956 
+L 171.765038 -160.246006 
+L 112.688115 -108.576466 
+L 53.611192 -172.301009 
+z
+" style="stroke: #eaf1f8; stroke-opacity: 0.95"/>
+    </defs>
+    <g clip-path="url(#p4127fd7eb5)">
+     <use xlink:href="#m76d0a8267d" x="0" y="237.209463" style="fill: #eaf1f8; fill-opacity: 0.95; stroke: #eaf1f8; stroke-opacity: 0.95"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m45f38c90f0" d="M 0 0 
+L 0 3 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m45f38c90f0" x="53.611192" y="206.55" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="53.611192" y="219.140088" transform="rotate(-0 53.611192 219.140088)">2024</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m45f38c90f0" x="112.688115" y="206.55" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="112.688115" y="219.140088" transform="rotate(-0 112.688115 219.140088)">2025</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m45f38c90f0" x="171.765038" y="206.55" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="171.765038" y="219.140088" transform="rotate(-0 171.765038 219.140088)">2026</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m45f38c90f0" x="230.841961" y="206.55" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="230.841961" y="219.140088" transform="rotate(-0 230.841961 219.140088)">2027</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m45f38c90f0" x="289.918884" y="206.55" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="289.918884" y="219.140088" transform="rotate(-0 289.918884 219.140088)">2028</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m45f38c90f0" x="348.995808" y="206.55" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="348.995808" y="219.140088" transform="rotate(-0 348.995808 219.140088)">2029</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m45f38c90f0" x="408.072731" y="206.55" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="408.072731" y="219.140088" transform="rotate(-0 408.072731 219.140088)">2030</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="243.248115" y="232.17541" transform="rotate(-0 243.248115 232.17541)">年份</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8">
+      <path d="M 35.888115 176.105827 
+L 450.608115 176.105827 
+" clip-path="url(#p4127fd7eb5)" style="fill: none; stroke: #e5e7eb; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9">
+      <defs>
+       <path id="mc88a550d2e" d="M 0 0 
+L -3 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc88a550d2e" x="35.888115" y="176.105827" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: end" x="29.388115" y="179.150871" transform="rotate(-0 29.388115 179.150871)">600</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10">
+      <path d="M 35.888115 128.418002 
+L 450.608115 128.418002 
+" clip-path="url(#p4127fd7eb5)" style="fill: none; stroke: #e5e7eb; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mc88a550d2e" x="35.888115" y="128.418002" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: end" x="29.388115" y="131.463045" transform="rotate(-0 29.388115 131.463045)">750</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <path d="M 35.888115 80.730176 
+L 450.608115 80.730176 
+" clip-path="url(#p4127fd7eb5)" style="fill: none; stroke: #e5e7eb; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mc88a550d2e" x="35.888115" y="80.730176" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: end" x="29.388115" y="83.77522" transform="rotate(-0 29.388115 83.77522)">900</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="10.039922" y="122.454" transform="rotate(-90 10.039922 122.454)">年度利润（万元）</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 35.888115 206.55 
+L 35.888115 38.358 
+" style="fill: none; stroke: #272727; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 35.888115 206.55 
+L 450.608115 206.55 
+" style="fill: none; stroke: #272727; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 53.611192 180.561592 
+L 112.688115 184.80786 
+L 171.765038 179.288528 
+L 230.841961 182.31283 
+L 289.918884 189.064464 
+L 348.995808 178.960471 
+L 408.072731 180.116275 
+" clip-path="url(#p4127fd7eb5)" style="fill: none; stroke: #6f7782; stroke-width: 1.8; stroke-linecap: square"/>
+    <defs>
+     <path id="m4f7a8550e2" d="M 0 2.1 
+C 0.556927 2.1 1.091118 1.878731 1.484924 1.484924 
+C 1.878731 1.091118 2.1 0.556927 2.1 0 
+C 2.1 -0.556927 1.878731 -1.091118 1.484924 -1.484924 
+C 1.091118 -1.878731 0.556927 -2.1 0 -2.1 
+C -0.556927 -2.1 -1.091118 -1.878731 -1.484924 -1.484924 
+C -1.878731 -1.091118 -2.1 -0.556927 -2.1 0 
+C -2.1 0.556927 -1.878731 1.091118 -1.484924 1.484924 
+C -1.091118 1.878731 -0.556927 2.1 0 2.1 
+z
+" style="stroke: #6f7782; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#p4127fd7eb5)">
+     <use xlink:href="#m4f7a8550e2" x="53.611192" y="180.561592" style="fill: #ffffff; stroke: #6f7782; stroke-width: 1.2"/>
+     <use xlink:href="#m4f7a8550e2" x="112.688115" y="184.80786" style="fill: #ffffff; stroke: #6f7782; stroke-width: 1.2"/>
+     <use xlink:href="#m4f7a8550e2" x="171.765038" y="179.288528" style="fill: #ffffff; stroke: #6f7782; stroke-width: 1.2"/>
+     <use xlink:href="#m4f7a8550e2" x="230.841961" y="182.31283" style="fill: #ffffff; stroke: #6f7782; stroke-width: 1.2"/>
+     <use xlink:href="#m4f7a8550e2" x="289.918884" y="189.064464" style="fill: #ffffff; stroke: #6f7782; stroke-width: 1.2"/>
+     <use xlink:href="#m4f7a8550e2" x="348.995808" y="178.960471" style="fill: #ffffff; stroke: #6f7782; stroke-width: 1.2"/>
+     <use xlink:href="#m4f7a8550e2" x="408.072731" y="180.116275" style="fill: #ffffff; stroke: #6f7782; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #0f4d92" x="53.611192" y="60.006023" transform="rotate(-0 53.611192 60.006023)">950</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #0f4d92" x="112.688115" y="123.730567" transform="rotate(-0 112.688115 123.730567)">749</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #0f4d92" x="171.765038" y="72.061026" transform="rotate(-0 171.765038 72.061026)">912</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #0f4d92" x="230.841961" y="58.889076" transform="rotate(-0 230.841961 58.889076)">953</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #0f4d92" x="289.918884" y="125.406909" transform="rotate(-0 289.918884 125.406909)">744</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #0f4d92" x="348.995808" y="71.203618" transform="rotate(-0 348.995808 71.203618)">915</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #0f4d92" x="408.072731" y="59.155724" transform="rotate(-0 408.072731 59.155724)">952</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #6f7782" x="53.611192" y="190.216216" transform="rotate(-0 53.611192 190.216216)">586</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #6f7782" x="112.688115" y="194.462485" transform="rotate(-0 112.688115 194.462485)">573</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #6f7782" x="171.765038" y="188.943153" transform="rotate(-0 171.765038 188.943153)">590</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #6f7782" x="230.841961" y="191.967454" transform="rotate(-0 230.841961 191.967454)">580</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #6f7782" x="289.918884" y="198.719089" transform="rotate(-0 289.918884 198.719089)">559</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #6f7782" x="348.995808" y="188.615095" transform="rotate(-0 348.995808 188.615095)">591</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6.8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #6f7782" x="408.072731" y="189.7709" transform="rotate(-0 408.072731 189.7709)">587</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start; fill: #0f4d92" x="413.980423" y="66.405733" transform="rotate(-0 413.980423 66.405733)">半价销售</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start; fill: #6f7782" x="413.980423" y="182.448229" transform="rotate(-0 413.980423 182.448229)">滞销浪费</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="35.888115" y="28.358" transform="rotate(-0 35.888115 28.358)">半价销售超产部分显著提高规划期利润</text>
+   </g>
+   <g id="line2d_15">
+    <path d="M 53.611192 64.908454 
+L 112.688115 128.632997 
+L 171.765038 76.963457 
+L 230.841961 63.791507 
+L 289.918884 130.30934 
+L 348.995808 76.106048 
+L 408.072731 64.058154 
+" clip-path="url(#p4127fd7eb5)" style="fill: none; stroke: #0f4d92; stroke-width: 2.2; stroke-linecap: square"/>
+    <defs>
+     <path id="m1e611901b1" d="M 0 2.3 
+C 0.609967 2.3 1.195034 2.057657 1.626346 1.626346 
+C 2.057657 1.195034 2.3 0.609967 2.3 0 
+C 2.3 -0.609967 2.057657 -1.195034 1.626346 -1.626346 
+C 1.195034 -2.057657 0.609967 -2.3 0 -2.3 
+C -0.609967 -2.3 -1.195034 -2.057657 -1.626346 -1.626346 
+C -2.057657 -1.195034 -2.3 -0.609967 -2.3 0 
+C -2.3 0.609967 -2.057657 1.195034 -1.626346 1.626346 
+C -1.195034 2.057657 -0.609967 2.3 0 2.3 
+z
+"/>
+    </defs>
+    <g clip-path="url(#p4127fd7eb5)">
+     <use xlink:href="#m1e611901b1" x="53.611192" y="64.908454" style="fill: #0f4d92"/>
+     <use xlink:href="#m1e611901b1" x="112.688115" y="128.632997" style="fill: #0f4d92"/>
+     <use xlink:href="#m1e611901b1" x="171.765038" y="76.963457" style="fill: #0f4d92"/>
+     <use xlink:href="#m1e611901b1" x="230.841961" y="63.791507" style="fill: #0f4d92"/>
+     <use xlink:href="#m1e611901b1" x="289.918884" y="130.30934" style="fill: #0f4d92"/>
+     <use xlink:href="#m1e611901b1" x="348.995808" y="76.106048" style="fill: #0f4d92"/>
+     <use xlink:href="#m1e611901b1" x="408.072731" y="64.058154" style="fill: #0f4d92"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_30">
+   <text style="font-size: 7.2px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: end; fill: #767676" x="450.608115" y="8.958375" transform="rotate(-0 450.608115 8.958375)">七年累计利润 6175 万元  |  较滞销浪费提高 51.8%</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4127fd7eb5">
+   <rect x="35.888115" y="38.358" width="414.72" height="168.192"/>
+  </clipPath>
+ </defs>
+</svg>

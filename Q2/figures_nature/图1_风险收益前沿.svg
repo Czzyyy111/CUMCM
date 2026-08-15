@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="515.414493pt" height="244.557437pt" viewBox="0 0 515.414493 244.557437" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-15T15:27:16.375572</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 244.557437 
+L 515.414493 244.557437 
+L 515.414493 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 46.956865 193.167437 
+L 487.596865 193.167437 
+L 487.596865 21.303438 
+L 46.956865 21.303438 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 467.567774 29.115437 
+L 429.804094 48.5236 
+L 338.517379 83.923994 
+L 192.343814 138.389795 
+L 66.985956 185.355437 
+" clip-path="url(#pdfa549aa16)" style="fill: none; stroke: #7a8088; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_2">
+      <defs>
+       <path id="mcb15bea85c" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mcb15bea85c" x="101.098309" y="193.167437" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="101.098309" y="206.257525" transform="rotate(-0 101.098309 206.257525)">3604.00</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mcb15bea85c" x="190.528027" y="193.167437" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="190.528027" y="206.257525" transform="rotate(-0 190.528027 206.257525)">3604.25</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mcb15bea85c" x="279.957746" y="193.167437" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="279.957746" y="206.257525" transform="rotate(-0 279.957746 206.257525)">3604.50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mcb15bea85c" x="369.387464" y="193.167437" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="369.387464" y="206.257525" transform="rotate(-0 369.387464 206.257525)">3604.75</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mcb15bea85c" x="458.817183" y="193.167437" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="458.817183" y="206.257525" transform="rotate(-0 458.817183 206.257525)">3605.00</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="267.276865" y="219.33402" transform="rotate(-0 267.276865 219.33402)">测试集下尾风险收益（最差10%情景平均利润，万元）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <path d="M 46.956865 174.540951 
+L 487.596865 174.540951 
+" clip-path="url(#pdfa549aa16)" style="fill: none; stroke: #e5e8eb; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <defs>
+       <path id="m332bac4403" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m332bac4403" x="46.956865" y="174.540951" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="39.956865" y="177.585995" transform="rotate(-0 39.956865 177.585995)">3637.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <path d="M 46.956865 140.369731 
+L 487.596865 140.369731 
+" clip-path="url(#pdfa549aa16)" style="fill: none; stroke: #e5e8eb; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m332bac4403" x="46.956865" y="140.369731" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="39.956865" y="143.414775" transform="rotate(-0 39.956865 143.414775)">3637.3</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <path d="M 46.956865 106.198511 
+L 487.596865 106.198511 
+" clip-path="url(#pdfa549aa16)" style="fill: none; stroke: #e5e8eb; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m332bac4403" x="46.956865" y="106.198511" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="39.956865" y="109.243555" transform="rotate(-0 39.956865 109.243555)">3637.6</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 46.956865 72.027291 
+L 487.596865 72.027291 
+" clip-path="url(#pdfa549aa16)" style="fill: none; stroke: #e5e8eb; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m332bac4403" x="46.956865" y="72.027291" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="39.956865" y="75.072335" transform="rotate(-0 39.956865 75.072335)">3637.9</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <path d="M 46.956865 37.85607 
+L 487.596865 37.85607 
+" clip-path="url(#pdfa549aa16)" style="fill: none; stroke: #e5e8eb; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m332bac4403" x="46.956865" y="37.85607" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end" x="39.956865" y="40.901114" transform="rotate(-0 39.956865 40.901114)">3638.2</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="10.006719" y="107.235437" transform="rotate(-90 10.006719 107.235437)">测试集期望利润（万元）</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 46.956865 193.167437 
+L 46.956865 21.303437 
+" style="fill: none; stroke: #25282c; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 46.956865 193.167437 
+L 487.596865 193.167437 
+" style="fill: none; stroke: #25282c; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="ma6ceaf73dc" d="M 0 3.316625 
+C 0.879579 3.316625 1.723251 2.967164 2.345208 2.345208 
+C 2.967164 1.723251 3.316625 0.879579 3.316625 0 
+C 3.316625 -0.879579 2.967164 -1.723251 2.345208 -2.345208 
+C 1.723251 -2.967164 0.879579 -3.316625 0 -3.316625 
+C -0.879579 -3.316625 -1.723251 -2.967164 -2.345208 -2.345208 
+C -2.967164 -1.723251 -3.316625 -0.879579 -3.316625 0 
+C -3.316625 0.879579 -2.967164 1.723251 -2.345208 2.345208 
+C -1.723251 2.967164 -0.879579 3.316625 0 3.316625 
+z
+" style="stroke: #276fbf; stroke-width: 1.3"/>
+    </defs>
+    <g clip-path="url(#pdfa549aa16)">
+     <use xlink:href="#ma6ceaf73dc" x="467.567774" y="29.115437" style="fill: #ffffff; stroke: #276fbf; stroke-width: 1.3"/>
+     <use xlink:href="#ma6ceaf73dc" x="338.517379" y="83.923994" style="fill: #ffffff; stroke: #276fbf; stroke-width: 1.3"/>
+     <use xlink:href="#ma6ceaf73dc" x="192.343814" y="138.389795" style="fill: #ffffff; stroke: #276fbf; stroke-width: 1.3"/>
+     <use xlink:href="#ma6ceaf73dc" x="66.985956" y="185.355437" style="fill: #ffffff; stroke: #276fbf; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #154c79" x="472.567774" y="23.115437" transform="rotate(-0 472.567774 23.115437)">风险权重 0.0</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #25282c" x="434.804094" y="42.5236" transform="rotate(-0 434.804094 42.5236)">风险权重 0.2（入选）</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #154c79" x="343.517379" y="77.923994" transform="rotate(-0 343.517379 77.923994)">风险权重 0.4</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #154c79" x="197.343814" y="132.389795" transform="rotate(-0 197.343814 132.389795)">风险权重 0.6</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #154c79" x="71.985956" y="179.355437" transform="rotate(-0 71.985956 179.355437)">风险权重 0.8</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="46.956865" y="11.303438" transform="rotate(-0 46.956865 11.303438)">不同风险权重种植方案的独立测试收益—下尾表现</text>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m496575600f" d="M 0 4.41588 
+C 1.171105 4.41588 2.294403 3.950595 3.122499 3.122499 
+C 3.950595 2.294403 4.41588 1.171105 4.41588 0 
+C 4.41588 -1.171105 3.950595 -2.294403 3.122499 -3.122499 
+C 2.294403 -3.950595 1.171105 -4.41588 0 -4.41588 
+C -1.171105 -4.41588 -2.294403 -3.950595 -3.122499 -3.122499 
+C -3.950595 -2.294403 -4.41588 -1.171105 -4.41588 0 
+C -4.41588 1.171105 -3.950595 2.294403 -3.122499 3.122499 
+C -2.294403 3.950595 -1.171105 4.41588 0 4.41588 
+z
+" style="stroke: #ffffff; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#pdfa549aa16)">
+     <use xlink:href="#m496575600f" x="429.804094" y="48.5236" style="fill: #d39a32; stroke: #ffffff; stroke-width: 0.8"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 6.7px; font-family: 'Microsoft YaHei', 'SimHei', 'Noto Sans CJK SC', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #72777f" x="495.372865" y="239.979537" transform="rotate(-0 495.372865 239.979537)">每个点对应一套共享于所有情景的七年种植方案</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdfa549aa16">
+   <rect x="46.956865" y="21.303438" width="440.64" height="171.864"/>
+  </clipPath>
+ </defs>
+</svg>
